@@ -16,7 +16,6 @@ This project was created for SkillCraft Technology — Software Development Inte
 ## Technologies Used
 
 - Python
-- Tkinter
 
 ## How to Run
 
