@@ -2,7 +2,7 @@ import math
 import tkinter as tk
 from tkinter import ttk, messagebox
 
-
+def amazing ():
 def convert_temperature():
     """Convert the entered temperature to the selected unit."""
     try:
