@@ -12,6 +12,7 @@ This project was created for SkillCraft Technology — Software Development Inte
 - Prevents temperatures below absolute zero
 - Includes a Reset button
 - Press Enter to convert quickly
+- now added celsius 
 
 ## Technologies Used
 
