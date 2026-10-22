@@ -1,28 +1,15 @@
 # Temperature Converter
 
-A simple desktop application that converts temperatures between Celsius, Fahrenheit, and Kelvin.
+A compact browser-based temperature converter built with HTML, CSS, and JavaScript. It converts between Celsius, Fahrenheit, and Kelvin, validates numeric input, rejects temperatures below absolute zero, and displays results to two decimal places.
 
-This project was created for SkillCraft Technology — Software Development Internship, Task 01.
+## Files
 
-## Features
+- `index.html` — page structure
+- `style.css` — layout and styling
+- `script.js` — conversion, validation, and reset behavior
 
-- Converts Celsius, Fahrenheit, and Kelvin temperatures
-- Easy-to-use graphical interface
-- Validates empty and non-numeric inputs
-- Prevents temperatures below absolute zero
-- Includes a Reset button
-- Press Enter to convert quickly
-- now added celsius 
+## Run locally
 
-## Technologies Used
+Keep all three files in the same folder, then open `index.html` in a web browser. No installation or server is required.
 
-- Python
-
-## How to Run
-
-1. Clone this repository.
-2. Open the project folder in VS Code.
-3. Run the following command in the terminal:
-
-   ```bash
-   python3 temperature_converter.py
+Enter a temperature, choose the source and destination units, then select **Convert** or press **Enter**. Select **Reset** to clear the input and restore Celsius-to-Fahrenheit defaults.
